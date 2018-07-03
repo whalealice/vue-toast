@@ -1,4 +1,5 @@
 # vue-toast
+<<<<<<< HEAD
 
 > A Vue.js project
 
@@ -30,3 +31,6 @@ this.$toast.show("hello, toast", {
 this.$toast.show("hello, toast", funcion() {
 
 })
+=======
+a vue-toast plugins
+>>>>>>> c3f2266abb1530166e3a4779e290ef3b53748b8e
